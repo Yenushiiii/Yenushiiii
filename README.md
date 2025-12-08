@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEY!! If you're from Pony Town, please check my linked Strawpage! :D
 
 <!--
 **Yenushiiii/Yenushiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
