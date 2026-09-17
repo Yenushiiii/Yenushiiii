@@ -1,57 +1,67 @@
-   <div class="card bg-faded text-center text-muted mx-auto border-0" style="max-width:800px; border-radius:15px;">
-    <div class="row no-gutters">
-        <!--FOCAL IMAGE-->
-            <div class="col-md-4 p-3"><div class="card border-0" style="background:url(
-            
-            https://upload.wikimedia.org/wikipedia/commons/4/42/Letraset_Lorem_Ipsum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
-            
-            ); background-position:top; background-size:cover; background-repeat:no-repeat; min-height:250px; width:auto; border-radius:15px;"></div>
-            </div>
-        <!--END FOCAL IMAGE-->
-        <!--START DESCRIPTION-->
-        <div class="col-md-8 p-3">
-            <h3 class="text-primary">Name</h3>
-            <p><i>Pro/Nouns - Species - Occupation</i></p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            </div>
-        <!--END DESCRIPTION-->
-    <!--START MOODBOARD-->
-        <div class="row no-gutters">
-            <!--IMAGE 1-->
-                <div class="col-4">
-                    <div class="card border-0" style="background:url(
-                    
-                        https://f2.toyhou.se/file/f2-toyhou-se/images/108970784_pCmOd7zNCCAZWk1.gif
-                    
-                    ); background-position:center; background-size:cover; background-repeat:no-repeat; height:200px; border-radius:15px;"></div>
-                </div>
-            <!--END IMAGE 1-->
-            <!--IMAGE 2-->
-                <div class="col-4">
-                    <div class="card border-0" style="background:url(
-                    
-                        https://f2.toyhou.se/file/f2-toyhou-se/images/108970094_Kve3rsF5B80aUcp.gif
-                    
-                    ); background-position:center; background-size:cover; background-repeat:no-repeat; height:200px; border-radius:15px;"></div>
-                </div>
-            <!--END IMAGE 2-->
-            <!--IMAGE 3-->
-                <div class="col-4">
-                    <div class="card border-0" style="background:url(
-                    
-                        https://f2.toyhou.se/file/f2-toyhou-se/images/108970784_pCmOd7zNCCAZWk1.gif
-                    
-                    ); background-position:center; background-size:cover; background-repeat:no-repeat; height:200px; border-radius:15px;"></div>
-                </div>
-            <!--END IMAGE 3-->
-        </div>
-    <!--END MOODBOARD-->
-</div>
-<!--END MAIN BODY-->
-<!--CREDITS - DO NOT REMOVE BUT YOU CAN MOVE-->
-    <div class="card bg-transparent text-right mx-auto border-0 rounded-0" style="max-width:800px;">
-        <p><a href="https://toyhou.se/OsiranCodes/characters/folder:3816256">
-          <i class="fas fa-paw tooltipster" title="Layout by OsiranCodes"></i></a></p>
-    </div>
- <!--END CREDITS-->
+  <p align="center"><img src="https://gloomy-poison.neocities.org/spooky_graphics/glitterbatsandreddivider.gif"> <br>
+<img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+     <img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+<img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+     <img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+<img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+     <img src="https://external-media.spacehey.net/media/syrd8hyQRJeZsIYvAQxDtC9KiSVAOAsuN-gi07I_JSS0=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f07c132-6e55-4943-9bb7-dbef21458a42/dfpzg61-4c3a91ac-21a9-4dc8-9509-3db764a2f122.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmMDdjMTMyLTZlNTUtNDk0My05YmI3LWRiZWYyMTQ1OGE0MlwvZGZwemc2MS00YzNhOTFhYy0yMWE5LTRkYzgtOTUwOS0zZGI3NjRhMmYxMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AQta0WxcPtahfCBVZKwhkK5XoGUpAKf96s5zMS2AQiQ" >
+               
+<img align="right" width="100" height="100" src="https://64.media.tumblr.com/6742d42c53cca99f30ce19c367cebe1d/0488487f8c6a765b-c7/s250x400/754381ed5a97d236d941c27ea0bc64f50523e881.pnj">
+<img align="left" width="100" height="100" src="https://64.media.tumblr.com/6742d42c53cca99f30ce19c367cebe1d/0488487f8c6a765b-c7/s250x400/754381ed5a97d236d941c27ea0bc64f50523e881.pnj"> <br>
+
+<img align="left" width="100" height="100" src="https://64.media.tumblr.com/6742d42c53cca99f30ce19c367cebe1d/0488487f8c6a765b-c7/s250x400/754381ed5a97d236d941c27ea0bc64f50523e881.pnj">
+<img align="right" width="100" height="100" src="https://64.media.tumblr.com/6742d42c53cca99f30ce19c367cebe1d/0488487f8c6a765b-c7/s250x400/754381ed5a97d236d941c27ea0bc64f50523e881.pnj"> <br>
+
+
+
+<p align="center"> 
+Trixi !! ~♡ <br>
+ she/her <br>
+     (㇏^.ˬˬ.^ノ) <br>
+Heavily Pokémon and Vampire-pilled <br>
+Always open to chat or hangout with :D <br>
+Do feel free to int or just lay when you see me on PT! <br>
+
+<p align="center"><img src="https://64.media.tumblr.com/54e0873e565da3c13780253c234ab8ff/0488487f8c6a765b-76/s400x600/21528c0e894ce1ab45c482dd08faee9a2790e4b1.gifv" />
+<p align="left">
+   <img src="https://64.media.tumblr.com/127f9c1a42fdeda785915b3e49e39673/0488487f8c6a765b-62/s250x400/07ed88f3593894282ab5fc1f725403ba42a30ae9.pnj">
+<img src="https://64.media.tumblr.com/265c89d0a8eed980d261ea3b19f46e13/0488487f8c6a765b-44/s250x400/51832c468a5a9424c6cd782928f38905aca873a1.pnj">
+<img src="https://64.media.tumblr.com/130205d360cb0b0c586f1582f096164e/0488487f8c6a765b-8d/s250x400/9d7c77b7abba9397529661553aa9f55833a4a28c.pnj">
+<img src="https://64.media.tumblr.com/0f62582853d646ae26d6adf15e2f7289/0488487f8c6a765b-f5/s250x400/dba3d9588f38fe091031634fb7daca2f1a99442c.pnj">
+<img src="https://64.media.tumblr.com/2bf94742728cc7ce109b587b688544cf/0488487f8c6a765b-c0/s250x400/6889f2871125ec34ab9af8b844f8442be0a4e8ad.pnj">
+<img src="https://64.media.tumblr.com/cf120c350f6c0787b56d09562f2f598f/0488487f8c6a765b-7c/s250x400/2acb2ecb54ebda419109a5483b9d7c0fad6a49c9.pnj">
+<img src="https://64.media.tumblr.com/0f5af05f995f159f280b150f3aa53596/27a546ca809903d0-87/s250x400/81af8f814fce65bb8fc8058c7fff5c903dc2b488.pnj">
+<img src="https://64.media.tumblr.com/b238c08d065450250351fb96297a63bf/27a546ca809903d0-67/s250x400/b10ea617d0e4509aecbfc16ef3591170a221fdf4.pnj">
+<img src="https://64.media.tumblr.com/e95baca1239b746371d8b96e73530f88/27a546ca809903d0-cb/s250x400/a15ef90b454853b9d0d3a4910f2ab6603b53a998.pnj">
+
+  <p align="center"><img src="https://64.media.tumblr.com/894f28d237defe601f920dd10ec8c111/0488487f8c6a765b-27/s250x400/221be8bec04989e2459e905f4a2317e3dbdc39f6.pnj"><p align="left"><img src="https://64.media.tumblr.com/749ad5f7ce36790d9d51595f74a01469/ed7ddda78f123b33-9a/s100x200/9e88c484acc54ca3c349a74323f9c32bbd87ec54.gifv" />
+    <br>
+    <img src="https://external-media.spacehey.net/media/shhPBT0zQ6YaxnflHOaSg9HmAkqdf6GWuGOGtQO5udAE=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2817ca-40ab-45d0-a1b7-550abf97f890/d2i6yjy-07bccfcf-2be4-41ec-9931-bd2b6fa966f7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjMjgxN2NhLTQwYWItNDVkMC1hMWI3LTU1MGFiZjk3Zjg5MFwvZDJpNnlqeS0wN2JjY2ZjZi0yYmU0LTQxZWMtOTkzMS1iZDJiNmZhOTY2ZjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MsvaQNzesZAJdEPPVekGYPewYOP4heqCwtrI_kR5YJs">
+    <img src="https://external-media.spacehey.net/media/sb6QAlljDUCbD4x8nGWtO6-xvCciPqWLGlxNgKR8RfPg=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2817ca-40ab-45d0-a1b7-550abf97f890/d2i6yhk-701a5f65-cc02-43b0-bcf8-3536c71f6b9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjMjgxN2NhLTQwYWItNDVkMC1hMWI3LTU1MGFiZjk3Zjg5MFwvZDJpNnloay03MDFhNWY2NS1jYzAyLTQzYjAtYmNmOC0zNTM2YzcxZjZiOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsAtAv76yShQMUYQjq8Vkz9xNXFk5yGaLXxsyo0uVkI">
+    <img src="https://external-media.spacehey.net/media/s7hkaGvFxOq-FACJkQN2AogyBevHfuvmZt_9UJY0jEAk=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2817ca-40ab-45d0-a1b7-550abf97f890/d2i3s7y-8e20e408-a099-465e-a588-2fd3ef88e27f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjMjgxN2NhLTQwYWItNDVkMC1hMWI3LTU1MGFiZjk3Zjg5MFwvZDJpM3M3eS04ZTIwZTQwOC1hMDk5LTQ2NWUtYTU4OC0yZmQzZWY4OGUyN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lyDwpY36P-JFi05vU2Fi7hn4fLv1yEc_R3YZXrIKvqQ">
+    <img src="https://external-media.spacehey.net/media/sEop6UIiV4bF6gtupyFT5voeVB7vQ_POJZs_g4i1_yG8=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2817ca-40ab-45d0-a1b7-550abf97f890/d2i3saw-1027b8b3-6287-403b-9755-05782fd47354.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjMjgxN2NhLTQwYWItNDVkMC1hMWI3LTU1MGFiZjk3Zjg5MFwvZDJpM3Nhdy0xMDI3YjhiMy02Mjg3LTQwM2ItOTc1NS0wNTc4MmZkNDczNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.woFbb7Vl5yB5GNBvhq9BIwm0Eb3E8lEOITdq7T8H0A0">
+    <img src="https://external-media.spacehey.net/media/sNyTIWTTDHXr08bqa1IjBP3D73PMgolwoPLcRAg7JXKI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c2817ca-40ab-45d0-a1b7-550abf97f890/d2i3sp0-1a067fba-5c7d-4d4d-a26f-c053449f3ce4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjMjgxN2NhLTQwYWItNDVkMC1hMWI3LTU1MGFiZjk3Zjg5MFwvZDJpM3NwMC0xYTA2N2ZiYS01YzdkLTRkNGQtYTI2Zi1jMDUzNDQ5ZjNjZTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B3JYkXGXr9v1BFCdvZ_bZZOGTeJQxmO3OZ2ueGWBykA">
+    
+    
+
+<img align="left" width="180" height="210" src="https://yt3.ggpht.com/GbdLa-X7_mffrf690uY6W2IeLKUb5cdTJu_jr2qOFnWtN5xshbosg1pf0OtFRwn6OjoYIuOI-J80Cqw=s675-c-fcrop64=1,00002000ffffdfff-nd-v1">
+
+<p align="right"> I mainly collect things and do digital art when I'm free! <br>
+Current long lasting interests rn are Pokémon, Vampires (obviously, duh), aswell as Horror in general <br>
+Also playing RPG's like Genshin and HSR <br>   
+Other fandoms include: vsmp, vocaloid, copa, pmmm, kny, eotv series, FaFr/P0, SH2/F, httyd, nso<br>
+  
+<p align="right">
+<img src="https://64.media.tumblr.com/423d92b7a25038bb1dbb8111606f2717/5df2c19bf676b80a-84/s100x200/1ab4c4d08c955b1f9c18e2bf085ca64c5c4f1164.pnj"width="100" height="50">
+<img src="https://64.media.tumblr.com/7309535162be1e082184b55679200ede/87b7984b993082ec-19/s100x200/92d03097c4252cd7e292c721a2cdaf119739b7f9.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/1d6cd315a6b1f992ea3151d4f6a205d9/cb8e0ff461afb032-13/s100x200/c5185320110fd6c080c67f7e9fedcf42d5c09a0d.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/33040e38bb0d60d7ab6e1e664560b2a7/430287f45c8133f7-6d/s100x200/81c110fc05a6cd024a0f005bab35959331c85639.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/7f34c15bf08c9dd6b879443bf9543b08/0455fac414385656-fa/s100x200/1795d315eef74b5e89d85f0598b458f47d2b6042.gifv"width="100" height="50"><img src="https://64.media.tumblr.com/f8b98b4229f2af71ec61dd232c9f88dc/a9ddffc3320c07ad-46/s100x200/775ef0505fcc0c3aa290b86104f429d0d39130f8.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/62b87926ef4cfaeb1030d66189b8e365/ab1a943cfc7237b8-8d/s100x200/00b7394a0c62722dc33eea280b512b24dd2e78f9.pnj"width="100" height="50">
+<img src="https://64.media.tumblr.com/ddc1c7a06487ea313e85934d1824d319/be7300995b975a06-9f/s100x200/01a01ac35847b75a4331ad5c1d5791bff45ee1fb.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/8d5c303a770ae024632327f63d7269ad/ccd0083ebc72c0ee-11/s400x600/bb65222bfc8aee5111aee716150d1d10ff61e0df.gifv"width="100" height="50">
+<img src="https://64.media.tumblr.com/0b250c54dea4229df5d7a47f7c011911/7bf7ca88a92b27d3-15/s100x200/d187c8626a11c36fb01b06a0b5c69a78334cf03f.gifv"width="100" height="50">
+
+  
+  
+<p align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/127840419_u4XMn0McaIrF3bN.png" >
