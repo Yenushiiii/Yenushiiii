@@ -32,7 +32,7 @@ Do feel free to int or just lay when you see me on PT! <br>
 <img src="https://64.media.tumblr.com/cf120c350f6c0787b56d09562f2f598f/0488487f8c6a765b-7c/s250x400/2acb2ecb54ebda419109a5483b9d7c0fad6a49c9.pnj">
 <img src="https://64.media.tumblr.com/0f5af05f995f159f280b150f3aa53596/27a546ca809903d0-87/s250x400/81af8f814fce65bb8fc8058c7fff5c903dc2b488.pnj">
 <img src="https://64.media.tumblr.com/b238c08d065450250351fb96297a63bf/27a546ca809903d0-67/s250x400/b10ea617d0e4509aecbfc16ef3591170a221fdf4.pnj">
-<img src="https://64.media.tumblr.com/e95baca1239b746371d8b96e73530f88/27a546ca809903d0-cb/s250x400/a15ef90b454853b9d0d3a4910f2ab6603b53a998.pnj">
+
 
   <p align="center"><img src="https://64.media.tumblr.com/894f28d237defe601f920dd10ec8c111/0488487f8c6a765b-27/s250x400/221be8bec04989e2459e905f4a2317e3dbdc39f6.pnj"><p align="left"><img src="https://64.media.tumblr.com/749ad5f7ce36790d9d51595f74a01469/ed7ddda78f123b33-9a/s100x200/9e88c484acc54ca3c349a74323f9c32bbd87ec54.gifv" />
     <br>
@@ -64,4 +64,4 @@ Other fandoms include: vsmp, vocaloid, copa, pmmm, kny, eotv series, FaFr/P0, SH
 
   
   
-<p align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/127840419_u4XMn0McaIrF3bN.png" >
+<p align="center"><img src="https://64.media.tumblr.com/a4667762c6eb5fde07093f35d72ecc51/9ad43a758f365571-a2/s1280x1920/a0bb2f2e8ecb6a0d5ffda4e946d6d27c0ce20e33.pnj">
