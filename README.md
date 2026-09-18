@@ -107,7 +107,7 @@ position:absolute;" class="fr-fil fr-dib" height="116.675" width="132">
 <img src="https://external-media.spacehey.net/media/sAA3V490IBWKQlecwyb9eDwv8FSO7z4L-xTODUfL2JL8=/https://i.ibb.co/g3fPXhn/IMG-7311.gif"width="100" height="50">
 <img src="https://64.media.tumblr.com/7309535162be1e082184b55679200ede/87b7984b993082ec-19/s100x200/92d03097c4252cd7e292c721a2cdaf119739b7f9.gifv"width="100" height="50">
 <img src="https://64.media.tumblr.com/1d6cd315a6b1f992ea3151d4f6a205d9/cb8e0ff461afb032-13/s100x200/c5185320110fd6c080c67f7e9fedcf42d5c09a0d.gifv"width="100" height="50">
-<img src="https://64.media.tumblr.com/33040e38bb0d60d7ab6e1e664560b2a7/430287f45c8133f7-6d/s100x200/81c110fc05a6cd024a0f005bab35959331c85639.gifv"width="100" height="50">
+<img src="https://kelprot.neocities.org/indeximg/graphix/stampdump/wknd9g.gif"width="100" height="50">
 <img src="https://i.ibb.co/ySkzZXK/e97fa2a7.gif"width="100" height="50"><img src="https://files.catbox.moe/wstfce.webp"width="100" height="50">
 <img src="https://64.media.tumblr.com/b1d2082b47a87d69d9813ee3aa0fabd5/tumblr_pbb8boDMGJ1xz2nuuo5_250.gif"width="100" height="50">
 <img src="https://supplies.ju.mp/assets/images/gallery09/c611ce54_original.png?v=6a50b904"width="100" height="50">
