@@ -50,7 +50,57 @@ Do feel free to int or just lay when you see me on PT! <br>
 Current long lasting interests rn are Pokémon, Vampires (obviously, duh), aswell as Horror in general <br>
 Also playing RPG's like Genshin and HSR <br>   
 Other fandoms include: vsmp, vocaloid, copa, pmmm, kny, eotv series, FaFr/P0, SH2/F, httyd, nso<br>
-  
+
+  <!-- ✿ main bottle container -change bottom/left to reposition
+     change width if you want to resize it! -->
+<div align="center" style="position:relative;">
+<div class="bottle" style="position:relative;width:150px;height:200px;background-color:transparent;border-radius:50%;">
+
+<!-- ✿ bottle shine -->
+<div class="shine" style="content:'';position:absolute;top:75px;right:30px;width:20px;height:20px;background-color:#fff;border-radius:50%;opacity:0.9;z-index:99;">
+<br>
+</div>
+
+<!-- ✿ bottle opening -->
+<div class="bottle" style="position:absolute;bottom:135px;left:50%;transform:translateX(-50%);width:80px;height:20px;background-color:#fff;border-radius:50% 50% 10% 10%;border-top:5px solid #2B3130;border-left:5.8px solid #2B3130;border-right:5.8px solid #777;z-index:2;overflow:hidden;">
+<br>
+</div>
+
+<!-- ✿ bottle body -->
+<div class="base" style="position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:100%;height:140px;background-color:rgba(172,220,215,0.89);border-radius:50% 50% 20% 20%;-webkit-background-clip:padding-box;background-clip:padding-box;padding:3px;box-sizing:border-box;overflow:visible;box-shadow:0px 0px 0px 5px #2B3130,inset 0 0 0 5px #fff;">
+
+<!-- ✿ the entrapped creature...
+     replace the img src URL with your desired image/gif link!
+     (right now it's kirby!)
+     
+     replace the "title"poyo!" with your desired text!
+     
+     change bottom/left to reposition
+     change width/height if you want to resize it! -->
+<a data-toggle="tooltip" href="#" title="Absolute Absol">
+<img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/359.png" style="
+bottom:-60px;
+left:49%;
+transform:translate(-50%,-50%);
+max-width:100%;
+opacity:0.79;
+position:absolute;" class="fr-fil fr-dib" height="116.675" width="132">
+</a>
+</div>
+
+<!-- ✿ cork! -->
+<div class="cork" style="position:absolute;top:20px;left:50%;transform:translateX(-50%);width:70px;height:30px;background-color:#efb04c;border-radius:40% 40% 10% 10%;box-shadow:0px 0px 0px 5px #555,inset -2px -8px 2px #D38045;box-sizing:border-box;outline:5px solid #674126;outline-offset:-2px;">
+<br>
+</div>
+</div>
+</div>
+
+<!-- ✿ credit - please do not remove -->
+<div style="text-align:center; margin-top:-11px; padding-left:150px;">
+<a class="tooltipster" href="https://toyhou.se/40979796.f2u-bottle-code" target="_blank">
+<i class="fas fa-code" style="font-size:8px; color:#2B3130;"></i>
+</a>
+</div>
 <p align="right">
 <img src="https://64.media.tumblr.com/423d92b7a25038bb1dbb8111606f2717/5df2c19bf676b80a-84/s100x200/1ab4c4d08c955b1f9c18e2bf085ca64c5c4f1164.pnj"width="100" height="50">
 <img src="https://64.media.tumblr.com/7309535162be1e082184b55679200ede/87b7984b993082ec-19/s100x200/92d03097c4252cd7e292c721a2cdaf119739b7f9.gifv"width="100" height="50">
