@@ -44,7 +44,7 @@ Do feel free to int or just lay when you see me on PT! <br>
     
     
 
-<img align="left" width="180" height="210" src="https://external-media.spacehey.net/media/sB9Rm922xvzFrxxYRttV_mfq04sMV9JvDPzOZ_5gaLdE=/https://i.ibb.co/p2ZZqGv/IMG-1501.gif">
+<img align="left" width="250" height="250" src="https://external-media.spacehey.net/media/sB9Rm922xvzFrxxYRttV_mfq04sMV9JvDPzOZ_5gaLdE=/https://i.ibb.co/p2ZZqGv/IMG-1501.gif">
 
 <p align="right"> I mainly collect things and do digital art when I'm free! <br>
 Current long lasting interests rn are Pokémon, Vampires (obviously, duh), aswell as Horror in general <br>
