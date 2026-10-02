@@ -51,7 +51,7 @@ Do feel free to int or just lay when you see me on PT! <br>
 <p align="right"> I mainly collect things and do digital art when I'm free! <br>
 Current long lasting interests rn are Pokémon, Vampires (obviously, duh), aswell as Horror in general <br>
 Also playing RPG's like Genshin and HSR <br>   
-Other fandoms include: vsmp, vocaloid, copa, pmmm, kny, eotv series, FaFr/P0, SH2/F, httyd, nso<br>
+Other fandoms include: vsmp, vocaloid, copa, funger, pmmm, kny, eotv series, FaFr/P0, SH2/F, httyd, nso<br>
 
   <!-- ✿ main bottle container -change bottom/left to reposition
      change width if you want to resize it! -->
